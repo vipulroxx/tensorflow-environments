@@ -7,7 +7,7 @@ html5lib==0.9999999
 idna==2.6
 Markdown==2.6.11
 numpy==1.14.0
-Pillow==5.0.0
+Pillow==9.3.0
 protobuf==3.5.1
 PyYAML==3.12
 requests==2.18.4
